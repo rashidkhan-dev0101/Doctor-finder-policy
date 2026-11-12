@@ -149,13 +149,11 @@ You can request permanent account deletion using either of the following methods
 
 ### 5.2 Request Account Deletion Through the Website
 
-Visit our account deletion page:
+You can find the complete account deletion instructions in [Section 10 — Account Deletion](#10-account-deletion--doctor-finder--find-doctors).
 
-[Doctor Finder – Find Doctors: Account Deletion](https://arif-khan085.github.io/Doctor-Finder/delete-account.html)
+If you cannot access your account, contact us at:
 
-If you cannot access the deletion page, contact us at:
-
-**Email:** [privacy@iarsoft.com](mailto:privacy@iarsoft.com)
+**Email:** [iarsoftofficial@gmail.com](mailto:iarsoftofficial@gmail.com)
 
 Please send your request from the email address associated with your account.
 
@@ -188,7 +186,7 @@ You can:
 
 For assistance, contact:
 
-[privacy@iarsoft.com](mailto:privacy@iarsoft.com)
+[ iarsoftofficial@gmail.com ](mailto:iarsoftofficial@gmail.com)
 
 ---
 
@@ -210,7 +208,7 @@ We encourage users to review this policy periodically.
 
 ---
 
-# 9. Contact Information
+## 9. Contact Information
 
 If you have questions, concerns, or requests regarding this Privacy Policy, please contact us:
 
@@ -218,11 +216,70 @@ If you have questions, concerns, or requests regarding this Privacy Policy, plea
 |---|---|
 | Application | Doctor Finder – Find Doctors |
 | Developer | IARSoft |
-| Privacy Email | [iarsoftofficial@gmail.com](mailto:iarsoftofficial@gmail.com) |
-| Account Deletion | [Delete Account](https://arif-khan085.github.io/Doctor-Finder/delete-account.html) |
-| Firebase Privacy | [Firebase Privacy](https://firebase.google.com/support/privacy) |
+| Privacy Email | iarsoftofficial@gmail.com |
+| Privacy Policy | https://rashidkhan-dev0101.github.io/Doctor-finder-policy/ |
+| Account Deletion | See Section 10 below |
+| Firebase Privacy | https://firebase.google.com/support/privacy |
 
 ---
 
-**© 2026 IARSoft. All Rights Reserved.**  
+## 10. Account Deletion — Doctor Finder – Find Doctors
+
+Doctor Finder – Find Doctors provides users with the ability to request permanent deletion of their accounts and associated personal information.
+
+### 10.1 How to Delete Your Account Through the App
+
+Follow these steps:
+
+1. Open the Doctor Finder – Find Doctors application.
+2. Navigate to **Settings**.
+3. Select **Delete Account**.
+4. Complete the identity verification process.
+5. Confirm your account deletion request.
+
+### 10.2 Request Account Deletion Through Email
+
+If you cannot access your account or use the in-app deletion option, you can request account deletion by emailing:
+
+**Email:** [iarsoftofficial@gmail.com](mailto:iarsoftofficial@gmail.com)
+
+Please include:
+
+- Your registered email address.
+- Your account type (Patient or Doctor).
+- A clear statement requesting permanent account deletion.
+
+For security purposes, we may request additional information to verify account ownership before processing your request.
+
+### 10.3 Information Deleted
+
+After verifying and processing your deletion request, we delete the account and associated application information, including:
+
+- Account credentials and authentication account.
+- Personal profile information.
+- Patient and doctor profile records.
+- Appointment records.
+- Chat messages and associated files.
+- Saved doctors.
+- Uploaded medical records.
+- Doctor articles and related content.
+
+### 10.4 Information That May Be Retained
+
+Certain information may be retained where necessary to comply with applicable legal obligations.
+
+Temporary backups and security logs may remain according to the retention practices of our service providers.
+
+### 10.5 Contact for Account Deletion
+
+**Application:** Doctor Finder – Find Doctors  
+**Developer:** IARSoft
+**Email:** [iarsoftofficial@gmail.com](mailto:iarsoftofficial@gmail.com)
+
+We will review verified deletion requests and process them in accordance with applicable requirements and our data retention obligations.
+
+---
+
+**© 2026 IARSoft. All Rights Reserved.**
+
 **Doctor Finder – Find Doctors — Privacy Policy**
