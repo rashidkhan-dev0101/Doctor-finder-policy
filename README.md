@@ -210,7 +210,7 @@ We encourage users to review this policy periodically.
 
 ---
 
-## 9. Contact Information
+# 9. Contact Information
 
 If you have questions, concerns, or requests regarding this Privacy Policy, please contact us:
 
@@ -218,7 +218,7 @@ If you have questions, concerns, or requests regarding this Privacy Policy, plea
 |---|---|
 | Application | Doctor Finder – Find Doctors |
 | Developer | IARSoft |
-| Privacy Email | [privacy@iarsoft.com](mailto:privacy@iarsoft.com) |
+| Privacy Email | [iarsoftofficial@gmail.com](mailto:iarsoftofficial@gmail.com) |
 | Account Deletion | [Delete Account](https://arif-khan085.github.io/Doctor-Finder/delete-account.html) |
 | Firebase Privacy | [Firebase Privacy](https://firebase.google.com/support/privacy) |
 
